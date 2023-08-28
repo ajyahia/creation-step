@@ -1,0 +1,220 @@
+[20-Aug-2023 14:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_sidbare() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:5
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 5
+[20-Aug-2023 14:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:5
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 5
+[20-Aug-2023 14:46:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function blog_info() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:5
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 5
+[20-Aug-2023 15:41:18 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[23-Aug-2023 08:58:13 UTC] PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 9
+[23-Aug-2023 08:58:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:28 UTC] PHP Warning:  Array to string conversion in C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php on line 106
+[23-Aug-2023 08:58:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
+[23-Aug-2023 08:58:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directroy_uri() in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php:8
+Stack trace:
+#0 C:\Users\A-plus store\Local Sites\practice\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\A-plus store\Local Sites\practice\app\public\wp-blog-header.php(19): require_once('C:\\Users\\A-plus...')
+#2 C:\Users\A-plus store\Local Sites\practice\app\public\index.php(17): require('C:\\Users\\A-plus...')
+#3 {main}
+  thrown in C:\Users\A-plus store\Local Sites\practice\app\public\wp-content\themes\jimy\index.php on line 8
